@@ -2,7 +2,7 @@
 
 # Hello, I'm Syed Usama Bukhari 👋
 ### 🌐 Backend Developer & Data Science Enthusiast from Pakistan
-![Syed Usama Bukhari's Logo](https://github.com/usama-shiranai90/usama-shiranai90/blob/main/container.svg)
+![Syed Usama Bukhari's Logo](https://github.com/usama-shiranai90/usama-shiranai90/blob/main/container.png)
 
 ---
 
