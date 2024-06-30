@@ -1,6 +1,6 @@
 ![Syed Usama Bukhari's Logo](https://github.com/usama-shiranai90/usama-shiranai90/blob/main/owl-logo.svg)
 
-# Hello, I'm Syed Usama Bukhari 👋
+# Hello, I'm Syed Usama Bukhari (Research Student at Kyudai)👋
 ### 🌐 Backend Developer & Data Science Enthusiast from Pakistan
 ![Syed Usama Bukhari's Logo](https://github.com/usama-shiranai90/usama-shiranai90/blob/main/container.png)
 
@@ -110,6 +110,8 @@
     - 📊 Data Analysis
 
 ### 🎓 Education:
+- **Kyushu University, Itoshima Japan** 
+  - Research Student in ISEE - _2024-Continue
 - **Foundation University, Islamabad** 
   - Bachelor of Computer Science and Engineering (BCSE) - _2018-2022_
 - **NUML, Islamabad** 
