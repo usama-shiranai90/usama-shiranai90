@@ -17,7 +17,7 @@
 #### 📫 Reach Me At:
 > *Open to collaborations and opportunities. Feel free to connect!*
 
-- **Email:** [syedusama78@gmail.com](mailto:syedusama78@gmail.com)
+- **Email:** [bukhari.453@s.kyushu-u.ac.jp](mailto:bukhari.453@s.kyushu-u.ac.jp)
 ---
 
 ### 🤝 Connect with Me:
