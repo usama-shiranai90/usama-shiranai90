@@ -1,7 +1,7 @@
 ![Syed Usama Bukhari's Logo](https://github.com/usama-shiranai90/usama-shiranai90/blob/main/owl-logo.svg)
 
 <h1 align="center">Hi, I'm Syed Usama Bukhari</h1>
-<h3 align="center">Research Student at Kyushu University | Backend Developer & Data Science Enthusiast</h3>
+<h3 align="center">Research Student at Kyushu University | Software Developer & Data Science Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:bukhari.453@s.kyushu-u.ac.jp">
