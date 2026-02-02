@@ -193,7 +193,7 @@ print(usama.collaborate())
 <details open>
 <summary><b>🏢 CareCloud, USA</b></summary>
 
-**Software Engineer** | *February 2023 – September 2023*
+**Software Engineer** | 
 
 ```yaml
 Responsibilities:
@@ -207,7 +207,7 @@ Responsibilities:
 <details>
 <summary><b>🏢 Immentia, Islamabad</b></summary>
 
-**Assistant Executive Developer** | *August 2022 – January 2023*
+**Assistant Executive Developer** | 
 
 ```yaml
 Responsibilities:
@@ -221,7 +221,7 @@ Responsibilities:
 <details>
 <summary><b>🏢 Devsiom Technologies, Islamabad</b></summary>
 
-**Android Development Intern** | *August 2021 – October 2021*
+**Android Development Intern** | 
 
 ```yaml
 Project:
